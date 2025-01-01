@@ -11,10 +11,8 @@ This repository contains solutions to various programming challenges and kata fr
 - To improve problem-solving and coding skills.
 - To share solutions and learn collaboratively with others.
 
-Feel free to explore, learn, and share your feedback. Suggestions for improvement are always welcome!
-
-
 ---
 
-Happy coding! 🚀
+Feel free to explore, learn, and share your feedback. Suggestions for improvement are always welcome!
+
 
